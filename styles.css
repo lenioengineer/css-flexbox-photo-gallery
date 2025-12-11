@@ -17,6 +17,12 @@ body {
   border-bottom: 4px solid #fdb347;
 }
 
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /*Justify-content align the content inside de on the flex container*/
+  justify-content: center;
+
 
 
 .gallery img {
